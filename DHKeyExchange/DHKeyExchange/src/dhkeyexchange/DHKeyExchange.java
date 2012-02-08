@@ -27,8 +27,6 @@ import java.util.Random;
  * 3. Computing the public key
  * 4. Computing the private key given a public key
  * 
- * Note this method is susceptible to man in the middle attacks in it's current state
- * 
  * More information can be found at http://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange
  * @author cbenger
  */
